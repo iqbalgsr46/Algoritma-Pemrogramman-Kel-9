@@ -28,9 +28,9 @@ Setiap program dibuat untuk memahami konsep dasar pemrograman seperti **array, p
 
 | NIM | Nama | Program |
 |----|----|----|
-| 312510038 | Muhammad Rohid | Bangun Ruang |
 | 312510036 | Tubagus Iqbal Husaeni | Array 1 Dimensi / Larik |
 | 312510050 | Fahri Muhammad Iyan | Array 2 Dimensi / Matriks |
+| 312510038 | Muhammad Rohid | Bangun Ruang |
 
 ---
 
