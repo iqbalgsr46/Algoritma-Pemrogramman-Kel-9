@@ -9,7 +9,7 @@ Nama : Tubagus Iqbal Husaeni
   <br>
 <hr>
 
-### 🖇 Deskripsi Program
+###  Deskripsi Program
 Program ini dibuat menggunakan bahasa pemrograman **Java** untuk menampilkan data mahasiswa yang terdiri dari **Nama, NIM, dan Nilai** menggunakan **array satu dimensi**.
 
 Dalam program ini terdapat 3 mahasiswa, yaitu:
@@ -21,7 +21,7 @@ Setiap mahasiswa memiliki **NIM dan nilai masing-masing** yang disimpan di dalam
 
 ---
 
-### 🖇 Konsep Yang Digunakan
+###  Konsep Yang Digunakan
 Program ini menggunakan beberapa konsep dasar pemrograman, yaitu:
 
 - **Array 1 Dimensi** untuk menyimpan data nama, NIM, dan nilai mahasiswa
