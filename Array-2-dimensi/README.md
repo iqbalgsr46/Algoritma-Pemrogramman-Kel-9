@@ -1,5 +1,5 @@
 # Array 2 Dimensi
-Author : Tubagus Iqbal Husaeni
+
 
 <!-- BOOTSTRAP ICONS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
