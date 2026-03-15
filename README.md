@@ -11,7 +11,7 @@
 
 <hr>
 
-## 📌 Deskripsi
+##  Deskripsi
 Repository ini berisi kumpulan program **tugas mata kuliah Algoritma Pemrogramman** yang dibuat menggunakan **bahasa pemrograman Java**.
 
 Program yang terdapat dalam repository ini meliputi:
@@ -24,7 +24,7 @@ Setiap program dibuat untuk memahami konsep dasar pemrograman seperti **array, p
 
 ---
 
-# 👨‍💻 Anggota Kelompok 9
+#  Anggota Kelompok 9
 
 | NIM | Nama | Program |
 |----|----|----|
@@ -126,7 +126,7 @@ Tujuan dari pembuatan program ini adalah untuk:
 
 ---
 
-# 📚 Mata Kuliah
+#  Mata Kuliah
 **Algoritma Pemrogramman**
 
 Universitas Pelita Bangsa
