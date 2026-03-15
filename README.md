@@ -59,7 +59,7 @@ Algoritma-Pemrogramman-Kel-9
 
 # 📖 Penjelasan Program
 
-## 1️⃣ Array 1 Dimensi (Larik)
+## 1️. Array 1 Dimensi (Larik)
 Program ini menggunakan **array satu dimensi** untuk menyimpan data mahasiswa seperti:
 
 - Nama
@@ -75,7 +75,7 @@ Konsep yang digunakan:
 
 ---
 
-## 2️⃣ Array 2 Dimensi (Matriks)
+## 2️. Array 2 Dimensi (Matriks)
 Program ini menggunakan **array dua dimensi** untuk menyimpan data mahasiswa dalam bentuk tabel yang terdiri dari:
 
 - Nama
@@ -91,7 +91,7 @@ Konsep yang digunakan:
 
 ---
 
-## 3️⃣ Program Bangun Ruang
+## 3️. Program Bangun Ruang
 Program ini digunakan untuk menghitung **volume beberapa bangun ruang**, seperti:
 
 - Kubus
